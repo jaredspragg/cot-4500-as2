@@ -1,4 +1,5 @@
  COT-4500 Assignment 2
+
 Polynomial interpolation is the interpolation of a given
 data set by the polynomial of lowest possible degree that passes through the points of the
 dataset.
